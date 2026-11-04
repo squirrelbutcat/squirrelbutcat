@@ -1,15 +1,8 @@
 <div align="center">
-
 # Hi, I'm Polina 👋
-
 **NUST MISIS student · BI & Data Analytics**
-
-I’m studying data analysis and business intelligence, with a technical background in software development, databases and algorithms.
-
 [![GitHub](https://img.shields.io/badge/GitHub-squirrelbutcat-181717?style=flat&logo=github)](https://github.com/squirrelbutcat)
-
 </div>
-
 ---
 
 ## About me
