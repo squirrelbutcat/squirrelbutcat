@@ -1,9 +1,3 @@
-<div align="center">
-# Hi, I'm Polina 👋
-**NUST MISIS student · BI & Data Analytics**
-[![GitHub](https://img.shields.io/badge/GitHub-squirrelbutcat-181717?style=flat&logo=github)](https://github.com/squirrelbutcat)
-</div>
----
 
 ## About me
 
