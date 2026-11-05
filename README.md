@@ -11,7 +11,7 @@
 | SQL & databases | Trino SQL, T-SQL (MS SQL Server), Spark SQL, SQLite; basic PostgreSQL |
 | Data platforms | Apache Iceberg, Trino, Apache Spark, MinIO (S3), Parquet, Docker |
 | Data analysis | Python, Pandas, NumPy, Jupyter, Seaborn, Matplotlib, Plotly |
-| BI | Yandex DataLens, Excel (basic, coursework level) |
+| BI | Yandex DataLens, Excel, BPMN, Power BI, Tableau |
 | Development | Git, GitHub, TypeScript, React, Next.js |
 
 ## Selected projects
